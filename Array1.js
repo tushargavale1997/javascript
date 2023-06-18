@@ -13,7 +13,7 @@ console.log(a.length)
 a[3]=444
 console.log(a[3])
 //=>444
-
+// .........................
 /* Arrays are mutable  */
 // String are immutable
 
