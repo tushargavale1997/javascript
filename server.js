@@ -3,7 +3,7 @@ const express = require('express')
 const app = express()
 const port = 3000
 
-
+# Added new comment in javascript file
 var bodyParser = require('body-parser')
 
 // parse application/json
